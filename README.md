@@ -27,11 +27,11 @@
       <h3 align="center">👨‍💻 Core Architecture Profile</h3>
       <pre><code>const softwareEngineer = {
   name: "Anas Khan",
-  status: "Final Year BCA | Open to In-Office Roles",
+  status: "BCA Graduate | Open to In-Office Roles",
   focus: [
     "Enterprise B2B SaaS", 
     "Real-Time Collaboration (WebSockets)", 
-    "AI/LLM Integrations (Gemini API)"
+    "Scalable Full-Stack Architecture"
   ],
   architecture: "Micro-frontends, Serverless workflows, Edge computing",
   motto: "Transforming complex business requirements into elegant, high-performance software."
